@@ -1,0 +1,20 @@
+{
+  "New item": {
+    "_id": "932gbGVSLyXw8Ijk",
+    "_key": "!items!932gbGVSLyXw8Ijk",
+    "effects": [],
+    "folder": "mahD9vTGNAHp7epN",
+    "img": null,
+    "name": "Common",
+    "system": {
+      "description": "<p>The Common Tongue</p>",
+      "predefinedEffects": "",
+      "rarity": "common",
+      "source": {
+        "page": 0,
+        "title": ""
+      }
+    },
+    "type": "Language"
+  }
+}
