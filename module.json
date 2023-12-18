@@ -1,0 +1,253 @@
+{
+  "id": "ds-content",
+  "name": "ds-content",
+  "title": "Dragonslayer RPG Content",
+  "description": "Classic Fantasy Role-Playing Game",
+  "version": "0.5.3",
+  "systems": [
+    "ose"
+  ],
+  "system": [
+    "ose"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/raw/1.5.0/system.json",
+        "compatibility": {
+          "verified": "1.5.1"
+        }
+      }
+    ]
+  },
+  "author": [
+    "Shadowspawn"
+  ],
+  "authors": [
+    {
+      "name": "Shadowspawn",
+      "email": "theshadowspawn@protonmail.com",
+      "url": "https://www.nowhere.com"
+    }
+  ],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "abilities_assassin",
+      "label": "Abilities: Assassin",
+      "package": "ds-content",
+      "path": "packs/class/abilities_assassin.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_barbarian",
+      "label": "Abilities: Barbarian",
+      "package": "ds-content",
+      "path": "packs/class/abilities_barbarian.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_cleric",
+      "label": "Abilities: Cleric",
+      "package": "ds-content",
+      "path": "packs/class/abilities_cleric.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_druid",
+      "label": "Abilities: Druid",
+      "package": "ds-content",
+      "path": "packs/class/abilities_druid.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_fighter",
+      "label": "Abilities: Fighter",
+      "package": "ds-content",
+      "path": "packs/class/abilities_fighter.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities-magic-user",
+      "label": "Abilities: Magic-User",
+      "package": "ds-content",
+      "path": "packs/abilities-magic-user.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_illusionist",
+      "label": "Abilities: Illusionist",
+      "package": "ds-content",
+      "path": "packs/class/abilities_illusionist.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_magic_user",
+      "label": "Abilities: Magic-User",
+      "package": "ds-content",
+      "path": "packs/class/abilities_magic_user.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_monk",
+      "label": "Abilities: Monk",
+      "package": "ds-content",
+      "path": "packs/class/abilities_monk.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_paladin",
+      "label": "Abilities: Paladin",
+      "package": "ds-content",
+      "path": "packs/class/abilities_paladin.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_ranger",
+      "label": "Abilities: Ranger",
+      "package": "ds-content",
+      "path": "packs/class/abilities_ranger.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_thief",
+      "label": "Abilities: Thief",
+      "package": "ds-content",
+      "path": "packs/class/abilities_thief.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "equipment-ammunition",
+      "label": "Equipment: Ammunition",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_ammunition.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+
+    {
+      "name": "equipment_adventuring_gear",
+      "label": "Equipment: Adventuring Gear",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_adventuring_gear.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+
+    {
+      "name": "equipment-armor",
+      "label": "Equipment: Armor",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_armor.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "equipment-coins",
+      "label": "Equipment: Coins",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_coins.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "equipment-weapons",
+      "label": "Equipment: Weapons",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_weapons.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "monsters",
+      "label": "Monsters",
+      "package": "ds-content",
+      "path": "packs/monsters/monsters.db",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "package": "ds-content",
+      "path": "packs/spells/spells.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+
+    {
+      "name": "treasures_miscellaneous_items",
+      "label": "Treasures: Miscellaneous Items",
+      "package": "ds-content",
+      "path": "packs/treasures/treasures_miscellaneous_items.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "treasures_potions",
+      "label": "Treasures: Potions",
+      "package": "ds-content",
+      "path": "packs/treasures/treasures_potions.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "treasures_rings",
+      "label": "Treasures: Rings",
+      "package": "ds-content",
+      "path": "packs/treasures/treasures_rings.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "treasures_rods_staffs_wands",
+      "label": "Treasures: Rods, Staffs, Wands",
+      "package": "ds-content",
+      "path": "packs/treasures-rods-staffs-wands.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "treasures-swords",
+      "label": "Treasures: Swords",
+      "package": "ds-content",
+      "path": "packs/treasures-swords.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "treasures-weapons",
+      "label": "Treasures: Weapons",
+      "package": "ds-content",
+      "path": "packs/treasures-weapons.db",
+      "entity": "Item",
+      "type": "Item"
+    }
+  ],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "0.6.2",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "url": "https://github.com/",
+  "manifest": "https://github.com/",
+  "download": "https://github.com/"
+}
