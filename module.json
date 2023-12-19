@@ -3,7 +3,7 @@
   "name": "ds-content",
   "title": "Dragonslayer RPG Content",
   "description": "Classic Fantasy Role-Playing Game",
-  "version": "0.5.3",
+  "version": "0.0.1",
   "systems": [
     "ose"
   ],
@@ -133,7 +133,7 @@
       "type": "Item"
     },
     {
-      "name": "equipment-ammunition",
+      "name": "equipment_ammunition",
       "label": "Equipment: Ammunition",
       "package": "ds-content",
       "path": "packs/equipment/equipment_ammunition.db",
@@ -151,7 +151,7 @@
     },
 
     {
-      "name": "equipment-armor",
+      "name": "equipment_armor",
       "label": "Equipment: Armor",
       "package": "ds-content",
       "path": "packs/equipment/equipment_armor.db",
@@ -159,7 +159,7 @@
       "type": "Item"
     },
     {
-      "name": "equipment-coins",
+      "name": "equipment_coins",
       "label": "Equipment: Coins",
       "package": "ds-content",
       "path": "packs/equipment/equipment_coins.db",
@@ -192,10 +192,10 @@
     },
 
     {
-      "name": "treasures_miscellaneous_items",
+      "name": "treasures-miscellaneous-items",
       "label": "Treasures: Miscellaneous Items",
       "package": "ds-content",
-      "path": "packs/treasures/treasures_miscellaneous_items.db",
+      "path": "packs/treasures/treasures-miscellaneous-items.db",
       "entity": "Item",
       "type": "Item"
     },
@@ -224,18 +224,18 @@
       "type": "Item"
     },
     {
-      "name": "treasures-swords",
+      "name": "treasures_swords",
       "label": "Treasures: Swords",
       "package": "ds-content",
-      "path": "packs/treasures-swords.db",
+      "path": "packs/treasures_swords.db",
       "entity": "Item",
       "type": "Item"
     },
     {
-      "name": "treasures-weapons",
+      "name": "treasures_weapons",
       "label": "Treasures: Weapons",
       "package": "ds-content",
-      "path": "packs/treasures-weapons.db",
+      "path": "packs/treasures_weapons.db",
       "entity": "Item",
       "type": "Item"
     }
