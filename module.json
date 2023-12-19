@@ -15,7 +15,7 @@
       {
         "id": "ose",
         "type": "system",
-        "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/raw/1.5.0/system.json",
+        "manifest": "https://github.com/TheShadowsPawn/dragonslayer/releases/download/1.02/system.json",
         "compatibility": {
           "verified": "1.5.1"
         }
