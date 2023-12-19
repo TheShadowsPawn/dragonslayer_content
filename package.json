@@ -1,0 +1,27 @@
+{
+  "name": "dragonslayer_content",
+  "version": "0.1.1",
+  "description": "A compendium Dragonslayer Content ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheShadowsPawn/dragonslayer_content"
+  },
+  "keywords": [
+    "compendium",
+    "osr",
+    "dragonslayer",
+    "fantasy",
+    "ndjson",
+    "foundryvtt"
+  ],
+  "author": "ShadowsPawn",
+  "license": "SEE LICENSE IN LICENSES",
+  "bugs": {
+    "url": "https://github.com/TheShadowsPawn/dragonslayer_content"
+  },
+  "homepage": "https://github.com/TheShadowsPawn/dragonslayer_content#readme"
+}
