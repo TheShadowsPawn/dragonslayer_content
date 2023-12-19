@@ -77,14 +77,6 @@
       "type": "Item"
     },
     {
-      "name": "abilities-magic-user",
-      "label": "Abilities: Magic-User",
-      "package": "ds-content",
-      "path": "packs/abilities-magic-user.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
       "name": "abilities_illusionist",
       "label": "Abilities: Illusionist",
       "package": "ds-content",
@@ -192,10 +184,10 @@
     },
 
     {
-      "name": "treasures-miscellaneous-items",
+      "name": "treasures_miscellaneous_items",
       "label": "Treasures: Miscellaneous Items",
       "package": "ds-content",
-      "path": "packs/treasures/treasures-miscellaneous-items.db",
+      "path": "packs/treasures/treasures_miscellaneous_items.db",
       "entity": "Item",
       "type": "Item"
     },
