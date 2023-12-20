@@ -47,11 +47,11 @@
     }
   ],
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "11",
   "compatibility": {
     "minimum": "0.6.2",
-    "verified": "10",
-    "maximum": "10"
+    "verified": "11",
+    "maximum": "11"
   },
   "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
