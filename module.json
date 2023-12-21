@@ -1,42 +1,41 @@
 {
-  "id": "ds-content",
-  "name": "ds-content",
-  "title": "Dragonslayer RPG Content",
-  "description": "Classic Fantasy Role-Playing Game",
-  "version": "0.0.8",
-  "systems": [
-    "ose"
-  ],
-  "system": [
-    "ose"
-  ],
-  "relationships": {
+    "id": "ds-content",
+    "name": "ds-content",
+    "title": "Dragonslayer RPG Content",
+    "description": "Classic Fantasy Role-Playing Game",
+    "version": "0.0.8",
     "systems": [
-      {
-        "id": "ose",
-        "type": "system",
-        "manifest": "https://github.com/TheShadowsPawn/dragonslayer/releases/download/1.02/system.json",
-        "compatibility": {
-          "verified": "1.5.1"
+        "ose"
+    ],
+    "system": [
+        "ose"
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "ose",
+                "type": "system",
+                "manifest": "https://github.com/TheShadowsPawn/dragonslayer/releases/download/1.02/system.json",
+                "compatibility": {
+                    "verified": "1.5.1"
+                }
+            }
+        ]
+    },
+    "author": [
+        "Shadowspawn"
+    ],
+    "authors": [
+        {
+            "name": "Shadowspawn",
+            "email": "theshadowspawn@protonmail.com",
+            "url": "https://www.nowhere.com"
         }
-      }
-    ]
-  },
-  "author": [
-    "Shadowspawn"
-  ],
-  "authors": [
-    {
-      "name": "Shadowspawn",
-      "email": "theshadowspawn@protonmail.com",
-      "url": "https://www.nowhere.com"
-    }
-  ],
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
+    ],
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
   "packs": [
-
     {
       "name": "abilities_thief",
       "label": "Abilities: Thief",
@@ -44,16 +43,48 @@
       "path": "packs/class/abilities_thief.db",
       "entity": "Item",
       "type": "Item"
+    },
+    {
+      "name": "equipment_adventuring_gear",
+      "label": "Equiment: Adventuring Gear",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_adventuring_gear.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "equipment_ammunition",
+      "label": "Equiment: Ammunition",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_ammunition.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "equipment_armor",
+      "label": "Equiment: Armor",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_armor.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "equipment_weapons",
+      "label": "Equiment: Weapons",
+      "package": "ds-content",
+      "path": "packs/equipment/equipment_weapons.db",
+      "entity": "Item",
+      "type": "Item"
     }
   ],
-  "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "11",
-  "compatibility": {
-    "minimum": "0.6.2",
-    "verified": "11",
-    "maximum": "11"
-  },
-  "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
-  "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
-  "download": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION"
+    "minimumCoreVersion": "0.6.2",
+    "compatibleCoreVersion": "11",
+    "compatibility": {
+        "minimum": "0.6.2",
+        "verified": "11",
+        "maximum": "11"
+    },
+    "url": "https://github.com/TheShadowsPawn/dragonslayer_content",
+    "manifest": "https://github.com/TheShadowsPawn/dragonslayer_content/releases/latest/download/module.json",
+    "download": "https://github.com/TheShadowsPawn/dragonslayer_content/releases/download/0.0.8/module.zip"
 }
