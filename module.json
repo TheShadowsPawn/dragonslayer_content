@@ -5,23 +5,11 @@
     "description": "Classic Fantasy Role-Playing Game",
     "version": "0.0.9",
     "systems": [
-        "ose"
+        "dsl"
     ],
     "system": [
-        "ose"
+        "dsl"
     ],
-    "relationships": {
-        "systems": [
-            {
-                "id": "ose",
-                "type": "system",
-                "manifest": "https://github.com/TheShadowsPawn/dragonslayer/releases/download/1.02/system.json",
-                "compatibility": {
-                    "verified": "1.5.1"
-                }
-            }
-        ]
-    },
     "author": [
         "Shadowspawn"
     ],
