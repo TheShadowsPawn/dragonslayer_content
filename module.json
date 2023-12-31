@@ -3,7 +3,7 @@
     "name": "ds-content",
     "title": "Dragonslayer RPG Content",
     "description": "Classic Fantasy Role-Playing Game",
-    "version": "0.0.9",
+    "version": "0.0.0",
     "systems": [
         "dsl"
     ],
@@ -24,6 +24,86 @@
     "esmodules": [],
     "styles": [],
   "packs": [
+    {
+      "name": "abilities_assassin",
+      "label": "Abilities: Assassin",
+      "package": "ds-content",
+      "path": "packs/class/abilities_assassin.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_barbarian",
+      "label": "Abilities: Barbarian",
+      "package": "ds-content",
+      "path": "packs/class/abilities_barbarian.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_cleric",
+      "label": "Abilities: Cleric",
+      "package": "ds-content",
+      "path": "packs/class/abilities_cleric.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_druid",
+      "label": "Abilities: Druid",
+      "package": "ds-content",
+      "path": "packs/class/abilities_druid.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_fighter",
+      "label": "Abilities: Figher",
+      "package": "ds-content",
+      "path": "packs/class/abilities_fighter.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_illusionist",
+      "label": "Abilities: Illusionist",
+      "package": "ds-content",
+      "path": "packs/class/abilities_illusionist.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_magic_user",
+      "label": "Abilities: Magic User",
+      "package": "ds-content",
+      "path": "packs/class/abilities_magic_user.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_monk",
+      "label": "Abilities: Monk",
+      "package": "ds-content",
+      "path": "packs/class/abilities_monk.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_ranger",
+      "label": "Abilities: Ranger",
+      "package": "ds-content",
+      "path": "packs/class/abilities_ranger.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "abilities_paladin",
+      "label": "Abilities: Paladin",
+      "package": "ds-content",
+      "path": "packs/class/abilities_paladin.db",
+      "entity": "Item",
+      "type": "Item"
+    },
     {
       "name": "abilities_thief",
       "label": "Abilities: Thief",
@@ -63,6 +143,41 @@
       "path": "packs/equipment/equipment_weapons.db",
       "entity": "Item",
       "type": "Item"
+    },
+    {
+      "name": "cleric_spells",
+      "label": "Spells: Cleric",
+      "package": "ds-content",
+      "path": "packs/spells/cleric_spells.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+
+    {
+      "name": "druid_spells",
+      "label": "Spells: Druid",
+      "package": "ds-content",
+      "path": "packs/spells/druid_spells.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+
+    {
+      "name": "magic_user_spells",
+      "label": "Spells: Magic-User",
+      "package": "ds-content",
+      "path": "packs/spells/magic_user_spells.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+
+    {
+      "name": "illusionist_spells",
+      "label": "Spells: Illusionist",
+      "package": "ds-content",
+      "path": "packs/spells/illusionist_spells.db",
+      "entity": "Item",
+      "type": "Item"
     }
   ],
     "minimumCoreVersion": "0.6.2",
@@ -74,5 +189,5 @@
     },
     "url": "https://github.com/TheShadowsPawn/dragonslayer_content",
     "manifest": "https://github.com/TheShadowsPawn/dragonslayer_content/releases/latest/download/module.json",
-    "download": "https://github.com/TheShadowsPawn/dragonslayer_content/releases/download/0.0.8/module.zip"
+    "download": "https://github.com/TheShadowsPawn/dragonslayer_content/releases/download/0.0.0/module.zip"
 }
