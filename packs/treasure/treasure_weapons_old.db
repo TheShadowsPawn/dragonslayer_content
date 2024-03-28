@@ -1,0 +1,3 @@
+{"name":"Dagger +1","type":"weapon","img":"icons/weapons/daggers/dagger-jeweled-purple.webp","effects":[],"_id":"OsRDNeBc8eDNHXSe","system":{"description":"<p><strong>Melee:</strong>Close quarters weapon (5’ or less).</p><p><strong>Missile:</strong> Thrown or fired weapon (greater than 5’ distance).</p>","autoTags":[],"manualTags":[],"quantity":{"value":1,"max":0},"weight":null,"cost":3,"containerId":"","save":"","equipped":false,"range":{"short":10,"medium":20,"long":30},"pattern":"white","damage":"1d4","bonus":1,"tags":[],"slow":false,"missile":true,"melee":true}}
+
+
