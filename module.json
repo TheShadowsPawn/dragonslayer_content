@@ -23,163 +23,240 @@
     "scripts": [],
     "esmodules": [],
     "styles": [],
-  "packs": [
-    {
-      "name": "abilities_assassin",
-      "label": "Abilities: Assassin",
-      "package": "ds-content",
-      "path": "packs/class/abilities_assassin.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_barbarian",
-      "label": "Abilities: Barbarian",
-      "package": "ds-content",
-      "path": "packs/class/abilities_barbarian.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_cleric",
-      "label": "Abilities: Cleric",
-      "package": "ds-content",
-      "path": "packs/class/abilities_cleric.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_druid",
-      "label": "Abilities: Druid",
-      "package": "ds-content",
-      "path": "packs/class/abilities_druid.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_fighter",
-      "label": "Abilities: Figher",
-      "package": "ds-content",
-      "path": "packs/class/abilities_fighter.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_illusionist",
-      "label": "Abilities: Illusionist",
-      "package": "ds-content",
-      "path": "packs/class/abilities_illusionist.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_magic_user",
-      "label": "Abilities: Magic User",
-      "package": "ds-content",
-      "path": "packs/class/abilities_magic_user.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_monk",
-      "label": "Abilities: Monk",
-      "package": "ds-content",
-      "path": "packs/class/abilities_monk.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_ranger",
-      "label": "Abilities: Ranger",
-      "package": "ds-content",
-      "path": "packs/class/abilities_ranger.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_paladin",
-      "label": "Abilities: Paladin",
-      "package": "ds-content",
-      "path": "packs/class/abilities_paladin.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "abilities_thief",
-      "label": "Abilities: Thief",
-      "package": "ds-content",
-      "path": "packs/class/abilities_thief.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "equipment_adventuring_gear",
-      "label": "Equiment: Adventuring Gear",
-      "package": "ds-content",
-      "path": "packs/equipment/equipment_adventuring_gear.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "equipment_ammunition",
-      "label": "Equiment: Ammunition",
-      "package": "ds-content",
-      "path": "packs/equipment/equipment_ammunition.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "equipment_armor",
-      "label": "Equiment: Armor",
-      "package": "ds-content",
-      "path": "packs/equipment/equipment_armor.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "equipment_weapons",
-      "label": "Equiment: Weapons",
-      "package": "ds-content",
-      "path": "packs/equipment/equipment_weapons.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-    {
-      "name": "cleric_spells",
-      "label": "Spells: Cleric",
-      "package": "ds-content",
-      "path": "packs/spells/cleric_spells.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-
-    {
-      "name": "druid_spells",
-      "label": "Spells: Druid",
-      "package": "ds-content",
-      "path": "packs/spells/druid_spells.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-
-    {
-      "name": "magic_user_spells",
-      "label": "Spells: Magic-User",
-      "package": "ds-content",
-      "path": "packs/spells/magic_user_spells.db",
-      "entity": "Item",
-      "type": "Item"
-    },
-
-    {
-      "name": "illusionist_spells",
-      "label": "Spells: Illusionist",
-      "package": "ds-content",
-      "path": "packs/spells/illusionist_spells.db",
-      "entity": "Item",
-      "type": "Item"
-    }
-  ],
+    "packs": [
+        {
+            "name": "abilities_assassin",
+            "label": "Abilities: Assassin",
+            "package": "ds-content",
+            "path": "packs/class/abilities_assassin.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_barbarian",
+            "label": "Abilities: Barbarian",
+            "package": "ds-content",
+            "path": "packs/class/abilities_barbarian.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_cleric",
+            "label": "Abilities: Cleric",
+            "package": "ds-content",
+            "path": "packs/class/abilities_cleric.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_druid",
+            "label": "Abilities: Druid",
+            "package": "ds-content",
+            "path": "packs/class/abilities_druid.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_fighter",
+            "label": "Abilities: Figher",
+            "package": "ds-content",
+            "path": "packs/class/abilities_fighter.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_illusionist",
+            "label": "Abilities: Illusionist",
+            "package": "ds-content",
+            "path": "packs/class/abilities_illusionist.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_magic_user",
+            "label": "Abilities: Magic User",
+            "package": "ds-content",
+            "path": "packs/class/abilities_magic_user.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_monk",
+            "label": "Abilities: Monk",
+            "package": "ds-content",
+            "path": "packs/class/abilities_monk.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_ranger",
+            "label": "Abilities: Ranger",
+            "package": "ds-content",
+            "path": "packs/class/abilities_ranger.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_paladin",
+            "label": "Abilities: Paladin",
+            "package": "ds-content",
+            "path": "packs/class/abilities_paladin.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "abilities_thief",
+            "label": "Abilities: Thief",
+            "package": "ds-content",
+            "path": "packs/class/abilities_thief.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "equipment_adventuring_gear",
+            "label": "Equiment: Adventuring Gear",
+            "package": "ds-content",
+            "path": "packs/equipment/equipment_adventuring_gear.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "equipment_ammunition",
+            "label": "Equiment: Ammunition",
+            "package": "ds-content",
+            "path": "packs/equipment/equipment_ammunition.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "equipment_armor",
+            "label": "Equiment: Armor",
+            "package": "ds-content",
+            "path": "packs/equipment/equipment_armor.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "equipment_weapons",
+            "label": "Equiment: Weapons",
+            "package": "ds-content",
+            "path": "packs/equipment/equipment_weapons.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "cleric_spells",
+            "label": "Spells: Cleric",
+            "package": "ds-content",
+            "path": "packs/spells/cleric_spells.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "druid_spells",
+            "label": "Spells: Druid",
+            "package": "ds-content",
+            "path": "packs/spells/druid_spells.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "magic_user_spells",
+            "label": "Spells: Magic-User",
+            "package": "ds-content",
+            "path": "packs/spells/magic_user_spells.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "illusionist_spells",
+            "label": "Spells: Illusionist",
+            "package": "ds-content",
+            "path": "packs/spells/illusionist_spells.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_armor",
+            "label": "Treasure: Armor",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_armor.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_potions",
+            "label": "Treasure: Potions",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_potions.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_rings",
+            "label": "Treasure: Rings",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_rings.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_runestones",
+            "label": "Treasure: Runestones",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_runestones.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_scrolls",
+            "label": "Treasure: Scrolls",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_scrolls.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_swords",
+            "label": "Treasure: Swords",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_swords.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_weapons",
+            "label": "Treasure: Weapons",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_weapons.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_miscellaneous_items",
+            "label": "Treasure: Miscellaneous Items",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_miscellaneous_items.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "treasure_rods_staffs_wands",
+            "label": "Treasure: Rods, Staffs, Wands",
+            "package": "ds-content",
+            "path": "packs/treasure/treasure_rods_staffs_wands.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+		{
+            "name": "tables_items",
+            "label": "Tables: Items",
+            "package": "ds-content",
+            "path": "packs/tables/tables_items.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        }
+    ],
     "minimumCoreVersion": "0.6.2",
     "compatibleCoreVersion": "11",
     "compatibility": {
