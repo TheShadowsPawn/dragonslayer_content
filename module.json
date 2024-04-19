@@ -177,74 +177,74 @@
             "type": "Item"
         },
 		{
-            "name": "treasure_armor",
-            "label": "Treasure: Armor",
+            "name": "magic_items_armor",
+            "label": "Magic Items: Armor",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_armor.db",
+            "path": "packs/magic items/magic_items_armor.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_potions",
-            "label": "Treasure: Potions",
+            "name": "magic_items_potions",
+            "label": "Magic Items: Potions",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_potions.db",
+            "path": "packs/magic items/magic_items_potions.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_rings",
-            "label": "Treasure: Rings",
+            "name": "magic_items_rings",
+            "label": "Magic Items: Rings",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_rings.db",
+            "path": "packs/magic items/magic_items_rings.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_runestones",
-            "label": "Treasure: Runestones",
+            "name": "magic_items_runestones",
+            "label": "Magic Items: Runestones",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_runestones.db",
+            "path": "packs/magic items/magic_items_runestones.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_scrolls",
-            "label": "Treasure: Scrolls",
+            "name": "magic_items_scrolls",
+            "label": "Magic Items: Scrolls",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_scrolls.db",
+            "path": "packs/magic items/magic_items_scrolls.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_swords",
-            "label": "Treasure: Swords",
+            "name": "magic_items_swords",
+            "label": "Magic Items: Swords",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_swords.db",
+            "path": "packs/magic items/magic_items_swords.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_weapons",
-            "label": "Treasure: Weapons",
+            "name": "magic_items_weapons",
+            "label": "Magic Items: Weapons",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_weapons.db",
+            "path": "packs/magic items/magic_items_weapons.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_miscellaneous_items",
-            "label": "Treasure: Miscellaneous Items",
+            "name": "magic_items_miscellaneous_items",
+            "label": "Magic Items: Miscellaneous Items",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_miscellaneous_items.db",
+            "path": "packs/magic items/magic_items_miscellaneous_items.db",
             "entity": "Item",
             "type": "Item"
         },
 		{
-            "name": "treasure_rods_staffs_wands",
-            "label": "Treasure: Rods, Staffs, Wands",
+            "name": "magic_items_rods_staffs_wands",
+            "label": "Magic Items: Rods, Staffs, Wands",
             "package": "ds-content",
-            "path": "packs/treasure/treasure_rods_staffs_wands.db",
+            "path": "packs/magic items/magic_items_rods_staffs_wands.db",
             "entity": "Item",
             "type": "Item"
         },
