@@ -1,6 +1,6 @@
 {
   "name": "dragonslayer_content",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A compendium Dragonslayer Content ",
   "main": "index.js",
   "scripts": {
