@@ -3,7 +3,7 @@
     "name": "ds-content",
     "title": "Dragonslayer RPG Content",
     "description": "Classic Fantasy Role-Playing Game",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "systems": [
         "dsl"
     ],
@@ -255,6 +255,14 @@
             "path": "packs/tables/tables_items.db",
             "entity": "RollTable",
             "type": "RollTable"
+        },
+	    	{
+            "name": "monsters",
+            "label": "Monsters",
+            "package": "ds-content",
+            "path": "packs/monsters/monsters.db",
+            "entity": "actor",
+            "type": "actor"
         }
     ],
     "minimumCoreVersion": "0.6.2",
