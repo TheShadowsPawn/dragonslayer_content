@@ -3,7 +3,7 @@
     "name": "ds-content",
     "title": "Dragonslayer RPG Content",
     "description": "Classic Fantasy Role-Playing Game",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "systems": [
         "dsl"
     ],
@@ -263,6 +263,14 @@
             "path": "packs/monsters/monsters.db",
             "entity": "Actor",
             "type": "Actor"
+        },
+	    {
+            "name": "tables_treasure",
+            "label": "Tables: Treasure",
+            "package": "ds-content",
+            "path": "packs/tables/tables_treasure.db",
+            "entity": "RollTable",
+            "type": "RollTable"
         }
     ],
     "minimumCoreVersion": "0.6.2",
