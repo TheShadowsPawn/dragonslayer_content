@@ -271,6 +271,14 @@
             "path": "packs/tables/tables_treasure.db",
             "entity": "RollTable",
             "type": "RollTable"
+        }, 
+	    {
+            "name": "spells",
+            "label": "Spells",
+            "package": "ds-content",
+            "path": "packs/spells/spells.db",
+            "entity": "Item",
+            "type": "Item"
         }
     ],
     "minimumCoreVersion": "0.6.2",
