@@ -9,7 +9,7 @@
     "systems": [{
       "id": "dsl",
       "compatibility": {
-        "minimum": "1.02"
+        "minimum": "0.13"
       }
     }]
   },
