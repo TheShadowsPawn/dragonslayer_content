@@ -3,7 +3,7 @@
     "name": "ds-content",
     "title": "Dragonslayer RPG Content",
     "description": "Classic Fantasy Role-Playing Game",
-    "version": "0.27",
+    "version": "0.28",
 
   "relationships": {
     "systems": [{
