@@ -4,19 +4,19 @@
     "title": "Dragonslayer RPG Content",
     "description": "Classic Fantasy Role-Playing Game",
     "version": "0.24",
-    "systems": [
-        "dsl"
-    ],
-   "system": [
-        "dsl"
-    ],
 "relationships": {
   "systems": [{
     "id": "dsl",
     "compatibility": {
       "minimum": "1.02"
   }]
-  },
+  },	
+    "systems": [
+        "dsl"
+    ],
+   "system": [
+        "dsl"
+    ],
     "author": [
         "Shadowspawn"
     ],
