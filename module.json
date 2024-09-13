@@ -3,13 +3,20 @@
     "name": "ds-content",
     "title": "Dragonslayer RPG Content",
     "description": "Classic Fantasy Role-Playing Game",
-    "version": "0.23",
+    "version": "0.24",
     "systems": [
         "dsl"
     ],
    "system": [
         "dsl"
     ],
+"relationships": {
+  "systems": [{
+    "id": "dsl",
+    "compatibility": {
+      "minimum": "1.02"
+    }
+  },
     "author": [
         "Shadowspawn"
     ],
