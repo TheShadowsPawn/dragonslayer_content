@@ -4,7 +4,7 @@
     "title": "Dragonslayer RPG Content",
     "description": "Classic Fantasy Role-Playing Game",
     "version": "0.24",
-{
+
   "relationships": {
     "systems": [{
       "id": "dsl",
